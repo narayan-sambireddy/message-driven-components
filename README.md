@@ -1,1 +1,1 @@
-# multi-broker-message-driven-component
+# message-driven-components

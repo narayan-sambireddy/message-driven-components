@@ -1,1 +1,1 @@
-# rabbitmq-driven-consumer
+# multi-broker-message-driven-component
